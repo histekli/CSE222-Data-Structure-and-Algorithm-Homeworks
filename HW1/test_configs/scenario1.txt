@@ -1,0 +1,27 @@
+addDev LCD 0 0
+addDev SparkFunMD 1 0
+addDev DHT11 2 0
+addDev Wifi 3 0
+list ports
+list Display
+turnON 0
+printDisplay 0 Hello
+list MotorDriver
+turnON 1
+setMotorSpeed 0 10
+list Sensor
+turnON 2
+readSensor 0
+list WirelessIO
+turnON 3
+readWireless 0
+writeWireless 0 Hello
+turnOFF 0
+turnOFF 1
+turnOFF 2
+turnOFF 3
+rmDev 0
+rmDev 1
+rmDev 2
+rmDev 3
+exit

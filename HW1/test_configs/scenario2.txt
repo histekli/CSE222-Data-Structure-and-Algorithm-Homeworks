@@ -1,0 +1,15 @@
+addDev OLED 0 0
+addDev PCA9685 0 1
+addDev GY951 100 0
+addDev MPU6050 0 0
+addDev BME280 0 0
+addDev GY951 3 0
+addDev Blabla 3 0
+list ports
+turnON 1
+list Sensor
+readSensor 0
+turnON 0
+rmDev 0
+printDisplay 0 blabla
+exit
