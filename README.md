@@ -30,6 +30,10 @@ A comprehensive tree-based planetary system simulation implementing hierarchical
 
 A sophisticated task management system implementing Priority Queue using custom Min Heap data structure for efficient task scheduling and priority-based execution.
 
+### HW6 - Spell Checker with Hash Tables and Edit Distance
+
+An advanced spell checker application featuring custom Hash Table implementations and Edit Distance algorithms for intelligent word correction and suggestion generation.
+
 ## Project Structure
 
 ### [HW2 - TBD](./HW2)
