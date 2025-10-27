@@ -26,6 +26,10 @@ A hardware system simulation that demonstrates Queue data structure usage with L
 
 A comprehensive tree-based planetary system simulation implementing hierarchical relationships between celestial bodies with advanced tree traversal algorithms.
 
+### HW5 - Task Manager with Priority Queue and Min Heap
+
+A sophisticated task management system implementing Priority Queue using custom Min Heap data structure for efficient task scheduling and priority-based execution.
+
 ## Project Structure
 
 ### [HW2 - TBD](./HW2)
