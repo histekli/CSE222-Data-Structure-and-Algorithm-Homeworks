@@ -34,31 +34,32 @@ A sophisticated task management system implementing Priority Queue using custom 
 
 An advanced spell checker application featuring custom Hash Table implementations and Edit Distance algorithms for intelligent word correction and suggestion generation.
 
+### HW7-8 - Comprehensive Data Structures and Algorithms Final Project
+
+The culminating project demonstrating mastery of advanced algorithms including Graph Algorithms (DFS, BFS, Dijkstra, MST) and Sorting Algorithms with comprehensive performance analysis.
+
 ## Project Structure
 
-### [HW2 - TBD](./HW2)
+### [HW1 - Hardware System Simulation](./HW1)
+Hardware device simulation with protocols, ports, and system management.
 
-_Coming soon..._
+### [HW2 - Data Structures Theory](./HW2)
+Theoretical problems and concepts in data structures and algorithms.
 
-### [HW3 - TBD](./HW3)
+### [HW3 - Queue Implementation](./HW3)
+Hardware system with Queue data structure for command processing.
 
-_Coming soon..._
+### [HW4 - Tree Data Structure](./HW4)
+Planetary system simulation using Tree structure and traversal algorithms.
 
-### [HW4 - TBD](./HW4)
+### [HW5 - Priority Queue & Min Heap](./HW5)
+Task management system with custom Priority Queue and Min Heap implementation.
 
-_Coming soon..._
+### [HW6 - Hash Tables & Edit Distance](./HW6)
+Spell checker using custom Hash Tables and Levenshtein distance algorithm.
 
-### [HW5 - TBD](./HW5)
-
-_Coming soon..._
-
-### [HW6 - TBD](./HW6)
-
-_Coming soon..._
-
-### [HW7&8 - TBD](./HW7-8)
-
-_Coming soon..._
+### [HW7-8 - Final Project](./HW7-8)
+Comprehensive implementation of Graph and Sorting algorithms with performance analysis.
 
 ## 🚀 Getting Started
 

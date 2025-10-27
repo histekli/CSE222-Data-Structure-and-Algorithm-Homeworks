@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"DSA.Graphs"},{"l":"DSA.Graphs.GCA"},{"l":"DSA.Graphs.MatrixGraph"},{"l":"DSA.Sorting"},{"l":"DSA.Tests"},{"l":"Main"}]

@@ -9,18 +9,21 @@ This project simulates a hardware system with multiple device types including se
 ## 🏗️ Architecture
 
 ### Core Components
+
 - **HWSystem**: Main system controller
 - **ConfigReader**: Configuration file parser
 - **ErrorHandler**: System error management
 - **Port**: Hardware port abstraction
 
 ### Device Types
+
 - **Sensors**: BME280, DHT11, GY951, IMU, MPU6050, Temperature sensors
 - **Motors**: PCA9685, SparkFun Motor Driver
 - **Displays**: LCD, OLED
 - **Wireless**: Bluetooth, WiFi
 
 ### Communication Protocols
+
 - **I2C**: Inter-Integrated Circuit
 - **SPI**: Serial Peripheral Interface
 - **UART**: Universal Asynchronous Receiver-Transmitter
@@ -29,25 +32,30 @@ This project simulates a hardware system with multiple device types including se
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Java 8 or higher
 - Make (for building)
 
 ### Building the Project
+
 ```bash
 make
 ```
 
 ### Running the Project
+
 ```bash
 make run
 ```
 
 ### Cleaning Build Files
+
 ```bash
 make clean
 ```
 
 ## 📁 Project Structure
+
 ```
 HW1/
 ├── src/                    # Source code
@@ -65,6 +73,7 @@ HW1/
 ## ⚙️ Configuration
 
 The system uses configuration files to define device setups. See `test_configs/` for examples:
+
 - `config1.txt`: Basic sensor configuration
 - `config2.txt`: Complex multi-device setup
 - `scenario1.txt`: Test scenario 1
@@ -73,11 +82,13 @@ The system uses configuration files to define device setups. See `test_configs/`
 ## 🔧 Usage Examples
 
 ### Basic Usage
+
 ```bash
 java Main config.txt
 ```
 
 ### With Test Configurations
+
 ```bash
 java Main test_configs/config1.txt
 ```
