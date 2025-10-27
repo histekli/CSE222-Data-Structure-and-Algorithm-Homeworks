@@ -72,11 +72,7 @@ Each homework has its own directory with:
 
 Navigate to individual homework directories for specific instructions.
 
-## 📝 License
-
-This project is licensed under the MIT License - see individual homework directories for details.
-
-## 📧 Contact
+##  Contact
 
 - Email: [Your email]
 - GitHub: [@histekli](https://github.com/histekli)

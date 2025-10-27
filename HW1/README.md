@@ -106,11 +106,7 @@ java Main test_configs/config1.txt
 
 Test configurations are available in the `test_configs/` directory. Each configuration tests different aspects of the system.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
+## ‍💻 Author
 
 **Hasan Can İstekli**  
 Student ID: 210104004058  
