@@ -18,6 +18,10 @@ A Java-based hardware system simulation project that implements various devices,
 
 Theoretical homework with problems related to data structures and algorithms concepts.
 
+### HW3 - Hardware System with Queue Implementation
+
+A hardware system simulation that demonstrates Queue data structure usage with LinkedList implementation for command processing.
+
 ## Project Structure
 
 ### [HW2 - TBD](./HW2)
