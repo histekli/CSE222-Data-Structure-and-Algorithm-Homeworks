@@ -22,6 +22,10 @@ Theoretical homework with problems related to data structures and algorithms con
 
 A hardware system simulation that demonstrates Queue data structure usage with LinkedList implementation for command processing.
 
+### HW4 - Planetary System with Tree Data Structure
+
+A comprehensive tree-based planetary system simulation implementing hierarchical relationships between celestial bodies with advanced tree traversal algorithms.
+
 ## Project Structure
 
 ### [HW2 - TBD](./HW2)
