@@ -1,0 +1,13 @@
+# Javadoc HTML files should not be counted in language statistics
+doc/** linguist-documentation
+*/doc/** linguist-documentation
+
+# HTML files in documentation directories should not be counted
+*.html linguist-documentation
+
+# Only count Java source files for language statistics
+*.java linguist-language=Java
+
+# Exclude generated documentation from language detection
+HW7-8/doc/** linguist-generated=true
+hw*/docs/** linguist-generated=true
